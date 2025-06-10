@@ -174,20 +174,22 @@ JOB DESCRIPTION:
 ${jobDescription}
 
 INSTRUCTIONS:
-1. Write a professional cover letter that is under 350 words
-2. Highlight relevant skills and experiences from the resume that match the job requirements
-3. Show enthusiasm for the specific role and company
-4. Use a professional but engaging tone
-5. Include a strong opening that grabs attention
-6. End with a clear call to action
-7. Make it feel personal and tailored, not generic
-8. Focus on value proposition - what the candidate can bring to the role
+Write a professional yet human-sounding cover letter for the following job post. Use plain English that flows naturally, like it was written by a real person. Avoid robotic phrasing, overused buzzwords, or anything that might trigger an AI detector.
 
-FORMAT:
-- Start with a professional greeting
-- 3-4 paragraphs maximum
-- Professional closing
-- Do not include placeholder text like [Your Name] or [Company Name]
+Structure the letter like a personal message:
+
+Start with a friendly greeting to the hiring manager (use their name if available).
+Open with genuine interest in the role and how it matches my past experience.
+Mention 2–3 specific accomplishments, experiences, or skills that relate directly to the job.
+End with a warm, appreciative close that invites a conversation.
+
+Rules:
+
+Keep it under 400 words
+Do not use em dashes, en dashes
+Use contractions and conversational language
+Make it sound confident but not arrogant
+The tone should be professional, friendly, and curious
 
 Write the cover letter now:
 `
